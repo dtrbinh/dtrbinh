@@ -1,5 +1,5 @@
-### Glad to see you <3
-### I just a junior coder :>
+### Glad to see you :smiling_face_with_three_hearts:
+### I just a junior coder :cupid:
 
 Contact me:
 1. [Facebook](https://www.facebook.com/bin.do.jjw/)
