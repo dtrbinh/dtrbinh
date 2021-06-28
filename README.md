@@ -1,0 +1,1 @@
+![Image of Yogitocat](https://octodex.github.com/yogitocat/)
