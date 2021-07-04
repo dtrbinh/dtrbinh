@@ -2,8 +2,11 @@
 ### I just a junior coder :cupid:
 
 🌹 Roses are red
+
 🌷 Violets are blue
+
 💻 This code seems good
+
 But I stolen too 😥
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrbinh&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731)
