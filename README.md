@@ -12,5 +12,5 @@ Contact me:
 ## 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrbinh&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731)  
-![Most used languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=pug,ejs)
+![Most used languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=pug,ejs,richtextformat,batchfile)
 
