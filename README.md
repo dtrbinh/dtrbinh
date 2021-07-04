@@ -5,7 +5,7 @@
 
 🌷 Violets are blue
 
-💻 This code seems good
+💻 My codes seem good
 
 But I stolen too 😥
 
