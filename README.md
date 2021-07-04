@@ -1,5 +1,12 @@
 ### Glad to see you :smiling_face_with_three_hearts:
-### I just a junior coder :cupid: ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrbinh&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731)
+### I just a junior coder :cupid:
+
+🌹 Roses are red
+🌷 Violets are blue
+💻 This code seems good
+But I stolen too 😥
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrbinh&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731)
 ![Most used languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=pug,ejs,richtextformat,batchfile)
 
 Contact me:
