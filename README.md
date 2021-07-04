@@ -8,3 +8,9 @@ Contact me:
 4. Gmail: dotranbinhqng02@gmail.com
 
 ![image](https://github.com/dtrbinh/dtrbinh/blob/main/img/9bc27292880429.5e569ff84e4d0.gif)
+
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrbinh&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731)  
+![Most used languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=pug,ejs)
+
