@@ -16,7 +16,7 @@ But I stolen too 😥
 
 ---
 
-<p align="right">
+<p align="left">
   Contact me: <br></br>
   <a href="https://www.facebook.com/bin.do.jjw/">1. Facebook</a> <br></br>
   <a href="https://www.instagram.com/bin_do.02/">2. Instagram</a> <br></br>
