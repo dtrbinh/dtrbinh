@@ -11,12 +11,13 @@
 💻 My codes seem good
 
 But I stolen too 😥
-
+<br></br>
 <img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=shell,pug,ejs,scss,php,powershell,batchfile,richtextformat" />
 
 ---
 
 <p align="left">
+  <br></br>
   Contact me: <br></br>
   <a href="https://www.facebook.com/bin.do.jjw/">1. Facebook</a> <br></br>
   <a href="https://www.instagram.com/bin_do.02/">2. Instagram</a> <br></br>
