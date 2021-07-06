@@ -1,7 +1,7 @@
 ### Glad to see you :smiling_face_with_three_hearts:
 ### I just a junior coder :cupid:
 ---
-<img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=letronghoangminh&theme=material-palenight&langs_count=10&hide=css,html,pug,ejs,scss" />
+<img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=shell,pug,ejs,scss" />
 <p align="left">
 🌹 Roses are red
 
