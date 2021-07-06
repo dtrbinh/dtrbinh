@@ -1,6 +1,7 @@
 ### Glad to see you :smiling_face_with_three_hearts:
 ### I just a junior coder :cupid:
 ---
+<p align="left">
 🌹 Roses are red
 
 🌷 Violets are blue
@@ -8,6 +9,8 @@
 💻 My codes seem good
 
 But I stolen too 😥
+</p>
+<img align="right" src= https://github-readme-stats.vercel.app/api?username=dtrbinh&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731 />
 
 ---
 Contact me:
