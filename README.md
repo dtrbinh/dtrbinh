@@ -12,7 +12,7 @@
 
 But I stolen too 😥
 <br></br>
-<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=shell,pug,ejs,scss,php,powershell,batchfile,richtextformat" />
+<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=shell,pug,ejs,scss,php,powershell,batchfile,richtextformat,pascal" />
 
 ---
 
