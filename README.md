@@ -30,7 +30,7 @@ But I stolen too 😥
     <img align="center" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/LinkedIn.png" />
   </a> <br></br>
   
-  <p align="center">
+  <p align="left">
     <a href="dotranbinhqng02@gmail.com/">4. Gmail</a> <br></br>
   </p>
 
