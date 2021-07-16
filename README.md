@@ -17,7 +17,6 @@ But I stolen too 😥
 ---
 
 <p align="left">
-  <br></br>
   Contact me: <br></br> </p>
   
   <a href="https://www.facebook.com/bin.do.jjw/">
