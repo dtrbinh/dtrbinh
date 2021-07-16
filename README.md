@@ -16,7 +16,7 @@ But I stolen too 😥
 
 ---
 
-<p align="right">
+<p align="left">
   <br></br>
   Contact me: <br></br> </p>
   
