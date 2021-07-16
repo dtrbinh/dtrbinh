@@ -18,7 +18,7 @@ But I stolen too 😥
 
 <p align="right">
   <br></br>
-  Contact me: <br></br>
+  Contact me: <br></br> </p>
   
   <a href="https://www.facebook.com/bin.do.jjw/">
     <img align="left" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/Facebook.png" />
@@ -33,7 +33,7 @@ But I stolen too 😥
   </a> <br></br>
   
   <a href="dotranbinhqng02@gmail.com/">4. Gmail</a> <br></br>
-</p>
+
 <br></br>
 
 ---
