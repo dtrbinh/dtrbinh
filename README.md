@@ -12,11 +12,6 @@
 
 But I stolen too 😥
 <br></br>
-<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=shell,pug,ejs,scss,powershell,batchfile,rtf,pascal,php" />
-
-
----
-
 
 <p align="left">
   Contact me: <br></br> </p>
@@ -35,9 +30,12 @@ But I stolen too 😥
   <p align="left">
     <a href="dotranbinhqng02@gmail.com/">4. Gmail</a> <br></br>
   </p>
-  
-  
+
+<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=shell,pug,ejs,scss,powershell,batchfile,rtf,pascal,php" />
+
+
 ---
+  
 
 <img src="https://github.com/dtrbinh/dtrbinh/blob/main/img/9bc27292880429.5e569ff84e4d0.gif" />
 
