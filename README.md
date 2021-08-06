@@ -15,7 +15,7 @@
 But I stolen too 😥
 
 
-<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=material-palenight&langs_count=10&hide=shell,pug,ejs,scss,powershell,batchfile,RTF,text,txt,pascal,php" />
+<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=gruvbox&langs_count=10&hide=shell,pug,ejs,scss,powershell,batchfile,RTF,text,txt,pascal,php" />
 
 ---
 <br></br>
