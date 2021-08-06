@@ -2,8 +2,7 @@
 ### I just a junior coder :cupid:
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dtrbinh&count_private=true
-&show_icons=true&theme=merko" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dtrbinh&show_icons=true&theme=merko" />
 
 🌹 Roses are red
 
