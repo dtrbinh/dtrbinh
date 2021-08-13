@@ -19,20 +19,20 @@ But I stolen too 😥
 <br></br>
 <p align="left">
   Contact me: <br></br> </p>
-  <a href="https://www.facebook.com/bin.do.jjw/">
+  <a target="blank" href="https://www.facebook.com/bin.do.jjw/">
     <img align="center" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/Facebook.png" />
   </a> <br></br>
  
-  <a href="https://www.instagram.com/bin_do.02/">
+  <a target="blank" href="https://www.instagram.com/bin_do.02/">
     <img align="center" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/Instagram.png" />
   </a> <br></br>
  
-  <a href="https://www.linkedin.com/in/%C4%91%E1%BB%97-tr%E1%BA%A7n-b%C3%ACnh-419665215/">
+  <a target="blank" href="https://www.linkedin.com/in/%C4%91%E1%BB%97-tr%E1%BA%A7n-b%C3%ACnh-419665215/">
     <img align="center" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/LinkedIn.png" />
   </a> <br></br>
   
   <p align="left">
-    <a href="dotranbinhqng02@gmail.com/">4. Gmail</a> <br></br>
+    <a target="blank" href="dotranbinhqng02@gmail.com/">4. Gmail</a> <br></br>
   </p>
  <br></br>
  
