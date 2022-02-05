@@ -13,28 +13,28 @@
 But I stolen too 😥
 
 
-<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=gruvbox&langs_count=10&hide=shell,pug,ejs,scss,powershell,batchfile,RTF,text,txt,pascal,php,C, python, typescript" />
+<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=gruvbox&langs_count=10&hide=shell,pug,ejs,scss,powershell,batchfile,RTF,text,txt,pascal,php,C,python,typescript" />
 
 ---
 <br></br>
+
 <p align="left">
-  Contact me: <br></br> </p>
-  <a href="https://www.facebook.com/bin.do.jjw/" target="_blank">
+  Contact me: 
+</p>
+
+  <a href="https://www.facebook.com/dtrbinh/" target="_blank">
     <img align="center" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/Facebook.png" />
-  </a> <br></br>
+  </a> &nbsp
  
-  <a href="https://www.instagram.com/bin_do.02/" target="_blank">
+  <a href="https://www.instagram.com/dtr.binh/" target="_blank">
     <img align="center" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/Instagram.png" />
-  </a> <br></br>
+  </a> &nbsp
  
   <a href="https://www.linkedin.com/in/%C4%91%E1%BB%97-tr%E1%BA%A7n-b%C3%ACnh-419665215/" target="_blank">
     <img align="center" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/LinkedIn.png" />
-  </a> <br></br>
-  
-  <p align="left">
-    <a href="dotranbinhqng02@gmail.com/" target="_blank">4. Gmail</a> <br></br>
-  </p>
- <br></br>
+  </a> &nbsp
+
+  <a href="dotranbinhqng02@gmail.com/" target="_blank">4. Gmail</a> 
  
 ---
   
