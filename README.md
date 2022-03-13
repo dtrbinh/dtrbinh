@@ -1,5 +1,5 @@
 ### Glad to see you :smiling_face_with_three_hearts:
-### I just a junior coder :cupid:
+### I just want to become a junior coder :cupid:
 ---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dtrbinh&show_icons=true&theme=merko" />
