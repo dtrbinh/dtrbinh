@@ -12,32 +12,28 @@
 
 But I stolen too 😥
 
-
-<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=gruvbox&langs_count=10&hide=shell,pug,ejs,scss,powershell,batchfile,RTF,text,txt,pascal,php,C,python,typescript" />
+<!-- <img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=gruvbox&langs_count=10&hide=shell,pug,ejs,scss,powershell,batchfile,RTF,text,txt,pascal,php,C,python,typescript" /> -->
 
 ---
-<br></br>
+<!-- <br></br> -->
 
 <p align="left">
   Contact me: 
 </p>
-
+  <a href="https://www.linkedin.com/in/dtrbinh" target="_blank">
+    <img align="center" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" />
+  </a> &nbsp
+  <a href="dotranbinhqng02@gmail.com/" target="_blank">
+    <img align="center" height="30px" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" />
+  </a> &nbsp
   <a href="https://www.facebook.com/dtrbinh/" target="_blank">
-    <img align="center" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/Facebook.png" />
+    <img align="center" height="30px" src="https://seeklogo.com/images/F/facebook-icon-circle-logo-09F32F61FF-seeklogo.com.png" />
   </a> &nbsp
- 
   <a href="https://www.instagram.com/dtr.binh/" target="_blank">
-    <img align="center" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/Instagram.png" />
+    <img align="center" height="30px" src="https://www.pngmart.com/files/13/Instagram-Logo-PNG-Image-1.png" />
   </a> &nbsp
- 
-  <a href="https://www.linkedin.com/in/%C4%91%E1%BB%97-tr%E1%BA%A7n-b%C3%ACnh-419665215/" target="_blank">
-    <img align="center" width="58px" height="30px" src="https://github.com/dtrbinh/dtrbinh/blob/main/img/LinkedIn.png" />
-  </a> &nbsp
-
-  <a href="dotranbinhqng02@gmail.com/" target="_blank">4. Gmail</a> 
  
 ---
-  
 
 <img src="https://github.com/dtrbinh/dtrbinh/blob/main/img/9bc27292880429.5e569ff84e4d0.gif" />
 
