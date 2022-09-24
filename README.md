@@ -2,7 +2,7 @@
 ### I just want to become a junior coder :cupid:
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dtrbinh&show_icons=true&theme=merko" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dtrbinh&show_icons=true&theme=aura" />
 
 🌹 Roses are red
 
@@ -12,7 +12,7 @@
 
 But I stolen too 😥
 
-<!-- <img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=gruvbox&langs_count=10&hide=shell,pug,ejs,scss,powershell,batchfile,RTF,text,txt,pascal,php,C,python,typescript" /> -->
+<!-- <img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dtrbinh&theme=aura&langs_count=10&hide=shell,pug,ejs,scss,powershell,batchfile,RTF,text,txt,pascal,php,C,python,typescript" /> -->
 
 ---
 <!-- <br></br> -->
